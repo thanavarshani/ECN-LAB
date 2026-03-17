@@ -26,12 +26,7 @@
 
 
 
-
-
-
-
-
-
+<img width="1033" height="1600" alt="image" src="https://github.com/user-attachments/assets/3b5b2ddc-e1bf-4690-a1f7-3e94807ac774" />
 
 
 
@@ -43,7 +38,7 @@
 	
  *3.Note down the readings of ammeters and voltmeters and tabulate them.*
 	
- *4.Vary the RPS for different input voltages and note down the readings of all the meters.*
+ *4.Vary the RPS for differendt input voltages and note down the readings of all the meters.*
 
  *5.Reduce the RPS to its minimum value and switch OFF the supply.*
   
